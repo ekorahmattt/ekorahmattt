@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="background-color: red">Let's me Introduce my self</h1>
+### My name is Eko Rahmat Darmawan
 
 <!--
 **Echo271/Echo271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
