@@ -3,16 +3,7 @@
 
 <h4> 🧑‍💻 I'm a undergraduate Informatics Student at Mulawarman University, East Kalimantan, Indonesia :indonesia:</h4>
 <p> Have an interest in <ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li></ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   aria-label="..." role="img"
-   viewBox="0 0 512 512">
-   <rect
-      width="512" height="512"
-      rx="15%"
-      fill="#fff"/>
-   ...
-</svg>
+<img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
 
 <div style="display:flex;flex-direction:row;">
   <a href="https://github.com/Echo271/">
