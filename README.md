@@ -6,3 +6,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo271&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo271&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display:flex;flex-direction:row;">
+  <a href="https://github.com/Echo271/">
+    <img src="https://github-readme-stats.vercel.app/api?username=echo271&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo271&layout=compact&theme=github_dark&langs_count=8">
+  </a>
+</div>
