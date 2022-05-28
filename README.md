@@ -8,7 +8,7 @@ LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> Eko Rahm
 
 <div style="display:flex;flex-direction:row;">
   <a href="https://github.com/Echo271/">
-    <img src="https://github-readme-stats.vercel.app/api?username=echo271&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo271&layout=compact&theme=github_dark&langs_count=8">
+    <img style="width:200;" src="https://github-readme-stats.vercel.app/api?username=echo271&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+    <img style="width:200;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo271&layout=compact&theme=github_dark&langs_count=8">
   </a>
 </div>
