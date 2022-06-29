@@ -7,7 +7,7 @@
 
 My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> linkedin/eko-rahmat </a>
 <hr>
-![](https://img.shields.io/endpoint?label=TensorFlow&logo=TensorFlow&logoColor=orange&color=green)
+![](https://img.shields.io/badge/TensorFlow?style=flat&logo=TensorFlow&logoColor=orange&color=green)
 <hr>
 <div style="display:flex;flex-direction:row;">
   <a href="https://github.com/Echo271/">
