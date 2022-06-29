@@ -9,7 +9,7 @@ My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> linke
 <hr>
 <div style="display:inline;">
   <img alt="Custom badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=orange">
-  <img alt="Custom badge" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776ab&color=2bbc8a">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow">
   <img alt="Custom badge" src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=007acc&color=2bbc8a">
   <img alt="Custom badge" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=4479a1&color=2bbc8a">
 </div>
