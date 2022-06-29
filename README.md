@@ -10,8 +10,14 @@ My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> linke
 <div style="display:inline;">
   <img alt="Custom badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=orange">
   <img alt="Custom badge" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow">
-  <img alt="Custom badge" src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=007acc&color=2bbc8a">
-  <img alt="Custom badge" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=4479a1&color=2bbc8a">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=e34f26">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=1572b6">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=777bb4">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=ff2d20">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=339933">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=007acc">
+  <img alt="Custom badge" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=4479a1">
 </div>
 <hr>
 <div style="display:flex;flex-direction:row;">
