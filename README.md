@@ -2,12 +2,13 @@
 <h2> I'm Eko Rahmat Darmawan</h2>
 
 <h4> 🧑‍💻 I'm a undergraduate Informatics Student at Mulawarman University, East Kalimantan, Indonesia :indonesia:</h4>
-<p> I love learning new things </p>
-<p> Have an interest in <ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li></ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
+<p> I love learning new things and wondering to gain new experiences, I also have interest in </p>
+<ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li> <li> :art: Graphic Design </ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
 
-My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> eko-rahmat </a>
+My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> eko-rahmat </a><br>
 My Instagram : <a href="https://www.instagram.com/eko_rahmattt"> eko_rahmattt </a>
-<hr>
+
+<h4>Programming Language</h4>
 <div style="display:inline;">
   <img alt="Custom badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=orange">
   <img alt="Custom badge" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow">
@@ -17,6 +18,9 @@ My Instagram : <a href="https://www.instagram.com/eko_rahmattt"> eko_rahmattt </
   <img alt="Custom badge" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=777bb4">
   <img alt="Custom badge" src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=ff2d20">
   <img alt="Custom badge" src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=339933">
+</div>
+<h4>Programming Tools</h4>
+<div style="display:inline;">
   <img alt="Custom badge" src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=007acc">
   <img alt="Custom badge" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=4479a1">
 </div>
