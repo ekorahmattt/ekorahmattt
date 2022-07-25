@@ -8,9 +8,9 @@
 <h4>Contacs Me : </h4>
 <div style="display:inline;">
   <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-Eko_Rahmat-informational?        style=flat&logo=linkedin&logoColor=white"></a><br>
-  <a href="https://www.instagram.com/eko_rahmattt"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-@eko_rahmattt-informational?style=flat&logo=instagram&logoColor=red"></a>
+  <a href="https://www.instagram.com/eko_rahmattt"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-@eko_rahmattt-informational?style=flat&logo=instagram&logoColor=white"></a>
 </div>
-
+<hr>
 <h4>Programming Language</h4>
 <div style="display:inline;">
   <img alt="Custom badge" src="https://img.shields.io/badge/TensorFlow-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=orange">
