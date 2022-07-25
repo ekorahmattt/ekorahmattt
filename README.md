@@ -6,7 +6,7 @@
 <ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li> <li> :art: Graphic Design </ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
 
 <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-Eko_Rahmat-informational?style=flat&logo=linkedin&logoColor=blue"></a><br>
-My Instagram : <a href="https://www.instagram.com/eko_rahmattt"> eko_rahmattt </a>
+<a href="https://www.instagram.com/eko_rahmattt"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-@eko_rahmattt-informational?style=flat&logo=instagram&logoColor=red"></a>
 
 <h4>Programming Language</h4>
 <div style="display:inline;">
