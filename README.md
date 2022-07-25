@@ -5,7 +5,7 @@
 <p> I love learning new things and wondering to gain new experiences, I also have interest in </p>
 <ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li> <li> :art: Graphic Design </ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
 
-My LinkedIn : <a href="https://www.linkedin.com/in/eko-rahmat-853503221/"> eko-rahmat </a><br>
+<a href="https://www.linkedin.com/in/eko-rahmat-853503221/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-Eko_Rahmat-informational?style=flat&logo=linkedin&logoColor=blue"></a><br>
 My Instagram : <a href="https://www.instagram.com/eko_rahmattt"> eko_rahmattt </a>
 
 <h4>Programming Language</h4>
