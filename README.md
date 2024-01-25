@@ -30,8 +30,8 @@
 <hr>
 <div style="display:flex;flex-direction:row;">
   <a href="https://github.com/eko-rahmat/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=echo271&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_owner=false">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo271&layout=compact&theme=github_dark&langs_count=8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eko-rahmat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_owner=false">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eko-rahmat&layout=compact&theme=github_dark&langs_count=8">
   </a>
 </div>
 
