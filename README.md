@@ -1,7 +1,11 @@
+<a href="https://ekorahmattt.github.io/">
+  <img alt="My Banner" src="assets/MyBanner.png">
+</a>
+
 <h1> Hi there 👋</h1>
 <h2> I'm Eko Rahmat Darmawan</h2>
 
-<h4> 🧑‍💻 I'm a undergraduate Informatics Student at Mulawarman University, East Kalimantan, Indonesia :indonesia:</h4>
+<h4> 🧑‍💻 I'm freshgraduate Informatics Student at Mulawarman University, East Kalimantan, Indonesia :indonesia:</h4>
 <p> I love learning new things and wondering to gain new experiences, I also have interest in </p>
 <ul> <li> 〽️ Data Science,</li><li> 🤖 Machine Learning,</li><li> 🌐 Web Developer.</li> <li> :art: Graphic Design </ul> Hopefully I can contribute and increase my experience as a data scientist and AI engineer. </p>
 
@@ -29,7 +33,7 @@
 </div>
 <hr>
 <div style="display:flex;flex-direction:row;">
-  <a href="https://github.com/eko-rahmat/">
+  <a href="https://github.com/ekorahmattt/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekorahmattt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_owner=false">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekorahmattt&layout=compact&theme=github_dark&langs_count=8">
   </a>
